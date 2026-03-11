@@ -15,8 +15,8 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 ## Webdesign & UI/UX
 
-<big>Fokus på brukervennlighet og estetikk</big>
-<big>Responsivt layout og moderne komponentdesign</big>
+<big>Fokus på brukervennlighet og estetikk</big><br>
+<big>Responsivt layout og moderne komponentdesign</big><br>
 <big>Eksperimentering med farger, typografi og microinteractions</big>
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
@@ -29,6 +29,6 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 ## Kontakt
 
-📧 faas0825@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/åshild-færøy-855595108)
+📧 faas0825@gmail.com<br>
+💼 [LinkedIn](https://linkedin.com/in/åshild-færøy-855595108)<br>
 🌐 Portfolio: kommer snart
