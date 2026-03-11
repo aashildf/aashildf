@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/aashildf/aashildf/main/github-header-banner(1).png)
+![Banner](https://raw.githubusercontent.com/aashildf/aashildf/main/github-header-b.png)
 
 Frontend-student ved Kodehode, med lidenskap for å skape vakre og funksjonelle nettsider.  
 Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man bygger komponentbaserte og responsive nettsider.  
