@@ -1,9 +1,9 @@
 ![Banner](https://raw.githubusercontent.com/aashildf/aashildf/main/github-header-banner.png)
 
-<h4>Frontend-student ved Kodehode, med lidenskap for å skape vakre og funksjonelle nettsider.
-Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man bygger komponentbaserte og responsive nettsider.</h4>
+<big>Frontend-student ved Kodehode, med lidenskap for å skape vakre og funksjonelle nettsider.
+Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man bygger komponentbaserte og responsive nettsider.</big>
 
-<h4>Jeg elsker å eksperimentere med webdesign, lage intuitive grensesnitt og teste små designideer med farger, typografi og layout.</h4>
+<big>Jeg elsker å eksperimentere med webdesign, lage intuitive grensesnitt og teste små designideer med farger, typografi og layout.</big>
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
@@ -15,9 +15,9 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 ## Webdesign & UI/UX
 
-<h4>Fokus på <strong>brukervennlighet og estetikk</strong></h4>
-<h4>Responsivt layout og moderne komponentdesign</h4>
-<h4>Eksperimentering med farger, typografi og microinteractions</h4>
+<big>Fokus på brukervennlighet og estetikk</big>
+<big>Responsivt layout og moderne komponentdesign</big>
+<big>Eksperimentering med farger, typografi og microinteractions</big>
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
