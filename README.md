@@ -52,7 +52,7 @@ Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og l
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med passende aktiviteter i Bergen i dag.</p>
   <p>
     <a href="https://aashildf.github.io/Weather-app/">Kode</a> | 
-    <a href="https://weather-app-git-main-aashildfs-projects.vercel.app/">Live demo</a>
+    <a href="https://weather-app-git-main-aashildfs-projects.vercel.app/">Live: demo</a>
   </p>
 </div>
 
