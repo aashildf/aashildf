@@ -17,6 +17,19 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+<!-- api studio-->
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
+  <h3>API-studio</h3>
+  <img src="./screenshots/api_studio.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
+  <p></p>
+  <p>
+    <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
+  </p>
+</div>
+
+<img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
+
+
 <!-- Playloop -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Playloop</h3>
@@ -66,17 +79,9 @@ The Little Fox`s Colorbook</h3>
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
-<!-- api studio-->
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
-  <h3>API-studio</h3>
-  <img src="./screenshots/api_studio.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
-  <p></p>
-  <p>
-    <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
-  </p>
-</div>
+
+
 
 </div>
 
