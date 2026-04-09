@@ -13,7 +13,7 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 <!-- Playloop -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
-  <h3>🎨 Playloop</h3>
+  <h3>Playloop</h3>
   <img src="./screenshots/playloop.png" alt="Playloop screenshot" style="width: 100%; border-radius: 8px;" />
   <p>PLAYLOOP: En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion</p>
   <p>
@@ -24,7 +24,7 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 <!-- Vær-app -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
-  <h3>☀️ Vær-app</h3>
+  <h3>Vær-app</h3>
   <img src="./screenshots/varapp.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med hva du kan gjøre i Bergen i dag..</p>
   <p>
