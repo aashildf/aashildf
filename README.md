@@ -27,6 +27,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
     Live: Kan kjøres lokalt
   </p>
 </div>
+## 
 
 <!-- Vær-app -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
@@ -38,6 +39,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
     <a href="https://var-app.vercel.app">Live demo</a>
   </p>
 </div>
+## 
 
 <!-- Fargeleggins app -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
@@ -49,6 +51,7 @@ The Little Fox`s Colorbook</h3>
     <a href="https://aashildf.github.io/Fargevelger/">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
+## 
 
 <!-- Gutenberg_booksearch-->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
@@ -59,6 +62,7 @@ The Little Fox`s Colorbook</h3>
     <a href="https://aashildf.github.io/Gutenberg_booksearch/">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
+## 
 
 <!-- api studio-->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
@@ -72,7 +76,7 @@ The Little Fox`s Colorbook</h3>
 
 </div>
 
----
+-
 
 
 
