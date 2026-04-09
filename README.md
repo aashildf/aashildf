@@ -7,6 +7,10 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
+Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.  
+
+
+---
 ##  Utvalgte prosjekter
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -24,7 +28,7 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 <!-- Vær-app -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
-  <h3>Vær-app</h3>
+  <h3>Bergen vær-app</h3>
   <img src="./screenshots/varapp.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med hva du kan gjøre i Bergen i dag..</p>
   <p>
