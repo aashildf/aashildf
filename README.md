@@ -51,8 +51,8 @@ Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og l
   <img src="./screenshots/vær_app.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med passende aktiviteter i Bergen i dag.</p>
   <p>
-    <a href="https://github.com/bruker/var-app">Kode</a> | 
-    <a href="https://var-app.vercel.app">Live demo</a>
+    <a href="https://aashildf.github.io/Weather-app/">Kode</a> | 
+    <a href="https://weather-app-git-main-aashildfs-projects.vercel.app/">Live demo</a>
   </p>
 </div>
 
