@@ -7,11 +7,12 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
-Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.  
 
 
----
+
+
 ##  Utvalgte prosjekter
+Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.  
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
