@@ -1,7 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/aashildf/aashildf/main/github-header-banner.png)
 
-<big>Frontend-student ved Kodehode, med lidenskap for å skape vakre og funksjonelle nettsider.
-Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man bygger komponentbaserte og responsive nettsider.</big>
+<big>Frontend-student ved Kodehode.</big>
+
+ <big>HTML, CSS, Figma, JavaScript, React</big>
 
 <big>Jeg elsker å eksperimentere med webdesign, lage intuitive grensesnitt og teste små designideer med farger, typografi og layout.</big>
 
