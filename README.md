@@ -21,7 +21,9 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>API-studio</h3>
   <img src="./screenshots/api_studio.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
-  <p></p>
+  <p>API-studio er en samlet oversikt over API-er fra norske offentlige etater. Søk direkte eller
+bla gjennom kategorier. 
+Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og lenke til data.norge.no </p>
   <p>
     <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
   </p>
@@ -34,7 +36,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Playloop</h3>
   <img src="./screenshots/playloop.png" alt="Playloop screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion</p>
+  <p>En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion.</p>
   <p>
     <a href="https://aashildf.github.io/PlayLoop/">Kode</a> | 
     Live: Kan kjøres lokalt
@@ -47,7 +49,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Bergen vær-app</h3>
   <img src="./screenshots/vær_app.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med hva du kan gjøre i Bergen i dag..</p>
+  <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med passende aktiviteter i Bergen i dag.</p>
   <p>
     <a href="https://github.com/bruker/var-app">Kode</a> | 
     <a href="https://var-app.vercel.app">Live demo</a>
@@ -73,21 +75,13 @@ The Little Fox`s Colorbook</h3>
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Gutenberg booksearch</h3>
   <img src="./screenshots/gutendex.png" alt="Gutendex screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>En moderne web-applikasjon for å utforske, søke og lagre klassisk litteratur fra Project Gutenberg. Dynamisk bibliotek som  henter tusenvis av bøker i sanntid via Gutendex API...</p>
+  <p>En moderne web-applikasjon for å utforske, søke og lagre klassisk litteratur fra Project Gutenberg. Dynamisk bibliotek som  henter tusenvis av bøker i sanntid via Gutendex API.</p>
   <p>
     <a href="https://aashildf.github.io/Gutenberg_booksearch/">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
 
-
-
-
-
 </div>
-
--
-
-
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
