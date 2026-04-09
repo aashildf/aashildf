@@ -30,7 +30,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <!-- Vær-app -->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Bergen vær-app</h3>
-  <img src="./screenshots/varapp.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
+  <img src="./screenshots/vær_app.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med hva du kan gjøre i Bergen i dag..</p>
   <p>
     <a href="https://github.com/bruker/var-app">Kode</a> | 
@@ -42,7 +42,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3> 
 The Little Fox`s Colorbook</h3>
-  <img src="./screenshots/spill3.png" alt="The Little Fox`s Colorbook screenshot" style="width: 100%; border-radius: 8px;" />
+  <img src="./screenshots/fox.png" alt="The Little Fox`s Colorbook screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En interaktiv fargeleggings-app bygget med React. Prosjektet lar brukere gi liv til en håndtegnet rev ved hjelp av en fargepalett inspirert av klassisk animasjonsfilm.</p>
   <p>
     <a href="https://aashildf.github.io/Fargevelger/">Kode</a> | Live: Kan kjøres lokalt
@@ -52,7 +52,7 @@ The Little Fox`s Colorbook</h3>
 <!-- Gutenberg_booksearch-->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Gutenberg booksearch</h3>
-  <img src="./screenshots/spill4.png" alt="Gutendex screenshot" style="width: 100%; border-radius: 8px;" />
+  <img src="./screenshots/gutendex.png" alt="Gutendex screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En moderne web-applikasjon for å utforske, søke og lagre klassisk litteratur fra Project Gutenberg. Dynamisk bibliotek som  henter tusenvis av bøker i sanntid via Gutendex API...</p>
   <p>
     <a href="https://aashildf.github.io/Gutenberg_booksearch/">Kode</a> | Live: Kan kjøres lokalt
@@ -62,7 +62,7 @@ The Little Fox`s Colorbook</h3>
 <!-- api studio-->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>API-studio</h3>
-  <img src="./screenshots/spill5.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
+  <img src="./screenshots/api_studio.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
   <p></p>
   <p>
     <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
