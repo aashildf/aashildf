@@ -15,7 +15,7 @@ Jeg har lært HTML, CSS, Figma, JavaScript og React på kurset, og hvordan man b
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Playloop</h3>
   <img src="./screenshots/playloop.png" alt="Playloop screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>PLAYLOOP: En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion</p>
+  <p>En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion</p>
   <p>
     <a href="https://aashildf.github.io/PlayLoop/">Kode</a> | 
     Live: Kan kjøres lokalt
@@ -56,9 +56,9 @@ The Little Fox`s Colorbook</h3>
 
 <!-- api studio-->
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
-  <h3>API-studio/h3>
+  <h3>API-studio</h3>
   <img src="./screenshots/spill5.png" alt="api-studio screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>API-studio er en samlet oversikt over API-er fra norske offentlige etater. Her kan du oppdage hvilke data som finnes, hvem som tilbyr dem, og hvordan de kan brukes.</p>
+  <p></p>
   <p>
     <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
   </p>
