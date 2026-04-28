@@ -13,7 +13,7 @@
 
 
 ##  Utvalgte prosjekter
-Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.  
+Her er noen utvalgte prosjekter som viser min utvikling og lidenskap for frontend-utvikling, UI-design og visuelle brukeropplevelser. Hvert prosjekt er bygget med fokus på kreativitet, brukervennlighet og moderne webteknologier. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
