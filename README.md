@@ -21,7 +21,7 @@ Her er noen prosjekter jeg har laget med HTML, CSS, JavaScript og React.
 <div style="border: 1px solid #ddd; border-radius: 12px; padding: 12px; width: 250px;">
   <h3>Portfolio 2026</h3>
   <img src="./screenshots/portfolio.png" alt="Portfolio 2026 screenshot" style="width: 100%; border-radius: 8px;" />
-  <p>Min personlige portefølje bygget med moderne webteknikker. Viser frem prosjekter, ferdigheter og design med fokus på estetikk, typografi og brukeropplevelse.</p>
+  <p>Min personlige portefølje som viser hvordan jeg jobber med frontend, UI-design og visuelle brukeropplevelser gjennom egne prosjekter.</p>
   <p>
     <a href="https://github.com/aashildf/portfolio2026">Kode</a> | 
     <a href="https://aashildf.github.io/portfolio2026/">Live: demo</a>
