@@ -23,7 +23,7 @@ Her er noen utvalgte prosjekter som viser min utvikling og lidenskap for fronten
   <img src="./screenshots/portfolio.png" alt="Portfolio 2026 screenshot" style="width: 100%; border-radius: 8px;" />
   <p>Min personlige portefølje som viser hvordan jeg jobber med frontend, UI-design og visuelle brukeropplevelser gjennom egne prosjekter.</p>
   <p>
-    <a href="https://github.com/aashildf/portfolio2026">Kode</a> | 
+    <a href="https://github.com/aashildf/Portfolio">Kode</a> | 
     <a href="https://aashildf.github.io/Portfolio/">Live: demo</a>
   </p>
 </div>
