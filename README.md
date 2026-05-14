@@ -112,9 +112,7 @@ The Little Fox`s Colorbook</h3>
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
-## Mest brukte språk
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashildf&layout=compact&theme=default&cache_seconds=86400&langs_count=6)
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
