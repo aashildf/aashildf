@@ -38,7 +38,7 @@ Her er noen utvalgte prosjekter som viser min utvikling og lidenskap for fronten
 bla gjennom kategorier. 
 Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og lenke til data.norge.no </p>
   <p>
-    <a href="https://github.com/aashildf/my-portfolio-api-site">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/my-portfolio-api-site">Kode</a> | <a href="https://aashildf.github.io/my-portfolio-api-site/">Live: demo</a>
   </p>
 </div>
 
