@@ -113,9 +113,6 @@ The Little Fox`s Colorbook</h3>
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
 
-
-<img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
-
 ## Kontakt
 
 📧 faas0825@gmail.com<br>
