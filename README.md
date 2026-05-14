@@ -64,7 +64,7 @@ Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og l
   <img src="./screenshots/vær_app.png" alt="Vær-app screenshot" style="width: 100%; border-radius: 8px;" />
   <p>React-app som viser værdata fra API. Illustrasjoner er knyttet til ulike værkoder, hvor figurer skifter antrekk etter været, og du får en lokaltilpasset liten værmelding med passende aktiviteter i Bergen i dag.</p>
   <p>
-    <a href="https://aashildf.github.io/Weather-app/">Kode</a> | 
+    <a href="https://github.com/aashildf/Weather-app">Kode</a> | 
     <a href="https://weather-app-git-main-aashildfs-projects.vercel.app/">Live: demo</a>
   </p>
 </div>
@@ -123,4 +123,4 @@ The Little Fox`s Colorbook</h3>
 
 📧 faas0825@gmail.com<br>
 💼 [LinkedIn](https://linkedin.com/in/åshild-færøy-855595108)<br>
-🌐 Portfolio: kommer snart
+🌐 [Portfolio](https://aashildf.github.io/Portfolio/)
