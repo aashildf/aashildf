@@ -38,7 +38,7 @@ Her er noen utvalgte prosjekter som viser min utvikling og lidenskap for fronten
 bla gjennom kategorier. 
 Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og lenke til data.norge.no </p>
   <p>
-    <a href="https://aashildf.github.io/my-portfolio-api-site/">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/my-portfolio-api-site">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
 
@@ -51,7 +51,7 @@ Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og l
   <img src="./screenshots/playloop.png" alt="Playloop screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion.</p>
   <p>
-    <a href="https://aashildf.github.io/PlayLoop/">Kode</a> | 
+    <a href="https://github.com/LeneRenate/PlayLoop">Kode</a> | 
     Live: Kan kjøres lokalt
   </p>
 </div>
@@ -78,7 +78,7 @@ The Little Fox`s Colorbook</h3>
   <img src="./screenshots/fox.png" alt="The Little Fox`s Colorbook screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En interaktiv fargeleggings-app bygget med React. Prosjektet lar brukere gi liv til en håndtegnet rev ved hjelp av en fargepalett inspirert av klassisk animasjonsfilm.</p>
   <p>
-    <a href="https://aashildf.github.io/Fargevelger/">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/Fargevelger">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
 
@@ -90,7 +90,7 @@ The Little Fox`s Colorbook</h3>
   <img src="./screenshots/gutendex.png" alt="Gutendex screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En moderne web-applikasjon for å utforske, søke og lagre klassisk litteratur fra Project Gutenberg. Dynamisk bibliotek som  henter tusenvis av bøker i sanntid via Gutendex API.</p>
   <p>
-    <a href="https://aashildf.github.io/Gutenberg_booksearch/">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/Gutenberg_booksearch">Kode</a> | Live: Kan kjøres lokalt
   </p>
 </div>
 
@@ -115,7 +115,7 @@ The Little Fox`s Colorbook</h3>
 
 ## Mest brukte språk
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashildf&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashildf&layout=compact&theme=default&cache_seconds=86400&langs_count=6)
 
 <img src="https://raw.githubusercontent.com/aashildf/aashildf/main/divider.svg" width="100%">
 
