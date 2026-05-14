@@ -77,7 +77,7 @@ The Little Fox`s Colorbook</h3>
   <img src="./screenshots/fox.png" alt="The Little Fox`s Colorbook screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En interaktiv fargeleggings-app bygget med React. Prosjektet lar brukere gi liv til en håndtegnet rev ved hjelp av en fargepalett inspirert av klassisk animasjonsfilm.</p>
   <p>
-    <a href="https://github.com/aashildf/Fargevelger">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/Fargevelger">Kode</a> |  <a href="https://aashildf.github.io/Fargevelger/">Live: demo</a>
   </p>
 </div>
 
@@ -89,7 +89,7 @@ The Little Fox`s Colorbook</h3>
   <img src="./screenshots/gutendex.png" alt="Gutendex screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En moderne web-applikasjon for å utforske, søke og lagre klassisk litteratur fra Project Gutenberg. Dynamisk bibliotek som  henter tusenvis av bøker i sanntid via Gutendex API.</p>
   <p>
-    <a href="https://github.com/aashildf/Gutenberg_booksearch">Kode</a> | Live: Kan kjøres lokalt
+    <a href="https://github.com/aashildf/Gutenberg_booksearch">Kode</a> | <a href="https://aashildf.github.io/Gutenberg_booksearch/">Live: demo</a>
   </p>
 </div>
 
