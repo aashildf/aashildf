@@ -51,7 +51,7 @@ Klikk på et API for å se detaljer: beskrivelse, utgiver, tema, nøkkelord og l
   <img src="./screenshots/playloop.png" alt="Playloop screenshot" style="width: 100%; border-radius: 8px;" />
   <p>En interaktiv spillportal inspirert av retro spillestetikk og arkadekultur. Bygget med React, Tailwind og Framer Motion.</p>
   <p>
-    <a href="https://github.com/LeneRenate/PlayLoop">Kode</a> | <a href="https://https://aashildf.github.io/PlayLoop/">Live: demo</a>
+    <a href="https://github.com/LeneRenate/PlayLoop">Kode</a> | <a href="https://aashildf.github.io/PlayLoop/">Live: demo</a>
   </p>
 </div>
 
